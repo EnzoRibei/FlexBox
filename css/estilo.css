@@ -1,0 +1,77 @@
+* {
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+header ul {
+    list-style: none;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    margin: 0 15px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cabecalho {
+    background-color: #bbb;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    flex: 75%;
+}
+
+.artigo1 {
+    background-color: #ddd;
+    flex: 1; 
+    padding: 20px;
+    text-align: center;
+}
+.artigo2 {
+    background-color: #c2bebe;
+    flex: 1; 
+    padding: 20px;
+    text-align: center;
+}
+
+.menu {
+    background-color: #aaa;
+    flex: 25%; 
+    text-align: center;
+    flex-direction: column;
+}
+
+.rodape {
+    background-color: #666;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin-top: auto;
+}
