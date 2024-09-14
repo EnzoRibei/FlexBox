@@ -1,4 +1,4 @@
-.containerPagina ul li{
+.containerPag ul li{
     display: inline;
     list-style-type: none;
     text-decoration: none;
@@ -7,7 +7,7 @@
     border-radius: 5px;
     color: rgb(247, 125, 214);
 }
-.containerPagina{
+.containerPag{
     display: flex;
     height: 50px;
     background-color:rgb(247, 125, 214);
@@ -16,11 +16,11 @@
     flex-direction: column;
     justify-content: space-around;
 }
-.containerPagina a{
+.containerPag a{
     text-decoration: none;
     color: rgb(139, 0, 95);  
 }
-.containerUm {
+.container01 {
     display: flex;
     margin: 0 auto;
     height:600px;
@@ -28,31 +28,31 @@
     flex-direction: column;
 }
 
-.containerDois {
+.container02 {
     display: flex;
     flex: 1;
     background-color: rgb(139, 0, 113);
     padding: 10px;
 }
 
-.containerDois h1{
+.container02 h1{
     color:rgb(255, 255, 255);
 }
 
-.containerTres {
+.container03 {
     display: flex;
     flex: 2;
     flex-direction: row;
 }
 
-.containerMenu {
+.containerM {
     background-color: rgb(237, 100, 168);
     flex: 1;
     display: flex;
     flex-direction: column;
 }
 
-.containerItem ul li{
+.containerI ul li{
     display: inline;
     list-style-type: none;
     text-decoration: none;
@@ -62,19 +62,19 @@
     border-radius: 5px;
 }
 
-.containerItem {
+.containerI {
     text-decoration: none;
     color: rgb(139, 0, 95);
 }
 
-.containerAd {
+.containerAdd {
     display: flex;
     flex-direction: column;
     background-color: rgb(237, 100, 168);
     flex: 1;
 }
 
-.containerCinco {
+.container05 {
     display: flex;
     background-color: rgb(230, 173, 209);
     flex: 2;
@@ -82,7 +82,7 @@
     padding: 10px;
 }
 
-.blocoMENU ul li{
+.blocM ul li{
     display: inline;
     list-style-type: none;
     text-decoration: none;
@@ -91,7 +91,7 @@
     border-radius: 5px;
     color: rgb(255, 182, 182);
 }
-.blocoMENU{
+.blocM{
     display: flex;
     height: 50px;
     background-color:rgb(255, 182, 182);
@@ -100,19 +100,19 @@
     flex-direction: column;
     justify-content: space-around;
 }
-.blocoMENU a{
+.blocM a{
     text-decoration: none;
     color: rgb(219, 219, 219);
 
 }
-.blocoAvo{
+.bloc3{
     display: flex;
     justify-content: center;
     align-items: center;
 
     
 }
-.blocoPai {
+.bloc2 {
     height: 50vh;
     width: 1200px;
     display: flex;
@@ -122,43 +122,43 @@
     margin-top: 90px
 }
 
-.blocoUm {
+.bloc01 {
     height: 20vh;
     flex: 1;
     background-color: rgb(238, 144, 144);
 }
 
-.blocoDois {
+.bloc02 {
     height: 30vh;
     flex: 1;
     background-color: rgb(255, 0, 0);
 }
 
-.blocoTres {
+.bloc03 {
     height: 15vh;
     flex: 1;
     background-color: rgb(238, 144, 144);
 }
 
-.blocoQuatro {
+.bloc04 {
     height: 35vh;
     flex: 1;
     background-color: rgb(255, 0, 0);
 }
 
-.blocoCinco {
+.bloc05 {
     height: 50vh;
     flex: 1;
     background-color: rgb(238, 144, 144);
 }
 
-.blocoSeis {
+.bloc06 {
     height: 20vh;
     flex: 1;
     background-color: rgb(255, 0, 4);
 }
 
-.contUm {
+.contt01 {
     display: flex;
     height: 50px;
     background-color:rgb(236, 192, 255);
@@ -168,7 +168,7 @@
     justify-content: space-around;
 }
 
-.contUm ul li {
+.contt01 ul li {
     display: inline;
     list-style-type: none;
     text-decoration: none;
@@ -179,13 +179,13 @@
     margin: 10px;
 }
 
-.contUm a{
+.contt01 a{
     text-decoration: none;
     color: rgb(253, 107, 248);
     
 }
 
-.contDois {
+.contt02 {
     height: 600px;
     display: flex;
     flex-direction: row;
@@ -193,7 +193,7 @@
     justify-content: space-around;
 }
 
-.contTres {
+.contt03 {
     display: flex;
     height: 400px;
     width: 220px;
@@ -201,7 +201,7 @@
     flex-direction: column;
 }
 
-.cont{
+.contt{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,12 +209,12 @@
     gap: 30px;
 }
 
-.contTres p{
+.contt03 p{
     padding: 10px;
     margin: 0;
 }
 
-.contTres h1{
+.contt03 h1{
     background-color: rgb(228, 20, 255);
     border-bottom: 20px solid rgb(228, 20, 255);
     margin-top: -10px;
