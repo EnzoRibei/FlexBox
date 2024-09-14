@@ -2,15 +2,15 @@
     display: inline;
     list-style-type: none;
     text-decoration: none;
-    background-color: rgb(255, 20, 161);
-    border: 7px solid rgb(255, 20, 161);
+    background-color: rgb(25, 246, 88);
+    border: 7px solid rgb(25, 246, 88);
     border-radius: 5px;
-    color: rgb(247, 125, 214);
+    color: rgb(170, 238, 175);
 }
 .containerPag{
     display: flex;
     height: 50px;
-    background-color:rgb(247, 125, 214);
+    background-color:rgb(170, 238, 175);
     padding:20px;
     align-items: center;
     flex-direction: column;
@@ -18,7 +18,7 @@
 }
 .containerPag a{
     text-decoration: none;
-    color: rgb(139, 0, 95);  
+    color: rgb(5, 138, 23);  
 }
 .container01 {
     display: flex;
@@ -31,7 +31,7 @@
 .container02 {
     display: flex;
     flex: 1;
-    background-color: rgb(139, 0, 113);
+    background-color: rgb(5, 138, 23);
     padding: 10px;
 }
 
@@ -46,7 +46,7 @@
 }
 
 .containerM {
-    background-color: rgb(237, 100, 168);
+    background-color: rgb(170, 238, 175);
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -57,26 +57,26 @@
     list-style-type: none;
     text-decoration: none;
     justify-content: space-around;
-    background-color: rgb(255, 240, 252);
-    border: 5px solid rgb(255, 240, 251);
+    background-color: rgb(144, 170, 255);
+    border: 5px solid rgb(144, 170, 255);
     border-radius: 5px;
 }
 
 .containerI {
     text-decoration: none;
-    color: rgb(139, 0, 95);
+    color: rgb(5, 138, 23);
 }
 
 .containerAdd {
     display: flex;
     flex-direction: column;
-    background-color: rgb(237, 100, 168);
+    background-color: rgb(170, 238, 175);
     flex: 1;
 }
 
 .container05 {
     display: flex;
-    background-color: rgb(230, 173, 209);
+    background-color: rgb(116, 199, 151);
     flex: 2;
     flex-direction: column;
     padding: 10px;
@@ -86,15 +86,15 @@
     display: inline;
     list-style-type: none;
     text-decoration: none;
-    background-color: rgb(255, 20, 75);
-    border: 7px solid rgb(255, 20, 75);
+    background-color: rgb(0, 0, 0);
+    border: 7px solid rgb(95, 32, 32);
     border-radius: 5px;
-    color: rgb(255, 182, 182);
+    color: rgb(169, 195, 42);
 }
 .blocM{
     display: flex;
     height: 50px;
-    background-color:rgb(255, 182, 182);
+    background-color:rgb(169, 195, 42);
     padding:20px;
     align-items: center;
     flex-direction: column;
@@ -125,43 +125,43 @@
 .bloc01 {
     height: 20vh;
     flex: 1;
-    background-color: rgb(238, 144, 144);
+    background-color: rgb(214, 253, 21);
 }
 
 .bloc02 {
     height: 30vh;
     flex: 1;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(169, 195, 42);
 }
 
 .bloc03 {
     height: 15vh;
     flex: 1;
-    background-color: rgb(238, 144, 144);
+    background-color: rgb(214, 253, 21);
 }
 
 .bloc04 {
     height: 35vh;
     flex: 1;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(169, 195, 42);
 }
 
 .bloc05 {
     height: 50vh;
     flex: 1;
-    background-color: rgb(238, 144, 144);
+    background-color: rgb(214, 253, 21);
 }
 
 .bloc06 {
     height: 20vh;
     flex: 1;
-    background-color: rgb(255, 0, 4);
+    background-color: rgb(169, 195, 42);
 }
 
 .contt01 {
     display: flex;
     height: 50px;
-    background-color:rgb(236, 192, 255);
+    background-color:rgb(144, 170, 255);
     padding:20px;
     align-items: center;
     flex-direction: column;
@@ -172,16 +172,16 @@
     display: inline;
     list-style-type: none;
     text-decoration: none;
-    background-color: rgb(204, 20, 255);
-    border: 7px solid rgb(204, 20, 255);
+    background-color: rgb(41, 206, 248);
+    border: 7px solid rgb(41, 206, 248);
     border-radius: 5px;
-    color: rgb(248, 182, 255);
+    color: rgb(144, 170, 255);
     margin: 10px;
 }
 
 .contt01 a{
     text-decoration: none;
-    color: rgb(253, 107, 248);
+    color: rgb(166, 238, 238);
     
 }
 
@@ -197,7 +197,7 @@
     display: flex;
     height: 400px;
     width: 220px;
-    background-color: rgb(209, 128, 213);
+    background-color: rgb(120, 213, 209);
     flex-direction: column;
 }
 
@@ -215,9 +215,9 @@
 }
 
 .contt03 h1{
-    background-color: rgb(228, 20, 255);
-    border-bottom: 20px solid rgb(228, 20, 255);
+    background-color: rgb(41, 206, 248);
+    border-bottom: 20px solid rgb(41, 206, 248);
     margin-top: -10px;
-    color: rgb(178, 130, 174);
+    color: rgb(107, 155, 153);
     margin: 0;
 }
