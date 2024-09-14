@@ -168,6 +168,12 @@
     justify-content: space-around;
 }
 
+.contt01 a{
+    text-decoration: none;
+    color: rgb(166, 238, 238);
+    
+}
+
 .contt01 ul li {
     display: inline;
     list-style-type: none;
@@ -177,12 +183,6 @@
     border-radius: 5px;
     color: rgb(144, 170, 255);
     margin: 10px;
-}
-
-.contt01 a{
-    text-decoration: none;
-    color: rgb(166, 238, 238);
-    
 }
 
 .contt02 {
@@ -201,17 +201,17 @@
     flex-direction: column;
 }
 
+.contt03 p{
+    padding: 10px;
+    margin: 0;
+}
+
 .contt{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     gap: 30px;
-}
-
-.contt03 p{
-    padding: 10px;
-    margin: 0;
 }
 
 .contt03 h1{
